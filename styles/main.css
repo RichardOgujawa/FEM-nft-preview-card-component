@@ -174,7 +174,6 @@ p > span:hover {
     }
 
     .main-img-container > img:nth-child(1){
-        /* display: none; */
         width: 100%;
     }
 }
