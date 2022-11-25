@@ -168,10 +168,6 @@ p > span:hover {
 
 }
 
-footer {
-    padding: 0;
-}
-
 @media screen and (max-width: 487px){
     body {
         font-size: 15px;
